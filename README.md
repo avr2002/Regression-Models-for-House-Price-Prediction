@@ -3,6 +3,7 @@
 ## 1. Create a new environment
 
     ```conda create -p venv python==3.7 -y```
+    ```conda create -p venv python```
     ```conda activate venv/```
 
 ## 2. Install all the requirements
@@ -13,7 +14,6 @@
 
     ```python engine.py```
 
-# -----------------------------------------------------------------------
 
 <h1 align="center"># Real Estate Project Overview</h1>
 
